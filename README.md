@@ -4,8 +4,7 @@
 
 Este proyecto desarrolla una metodología de análisis de datos para evaluar a todos los equipos de la NBA y seleccionar los tres más atractivos para el patrocinador en función de sus objetivos específicos. 
 
-![image](https://github.com/user-attachments/assets/19ab6e5d-fcb0-4d29-bef7-84085fd39f98)
-
+![image](https://github.com/user-attachments/assets/0690ac64-0c0f-45c4-8d82-d873bcf8a55b)
 
 ## Instalación
 
