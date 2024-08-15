@@ -1,24 +1,65 @@
-# PartnershipFinder
+# <p align="center"> ![image](https://github.com/user-attachments/assets/e0ab7a59-f959-4de4-a0ab-0ac2c90fefe2) </p> 
 
-## Descripción
+# <p align="center"> Proyecto Final de Análisis de Datos "PartnershipFinder" </p> 
 
-Este proyecto desarrolla una metodología de análisis de datos para evaluar a todos los equipos de la NBA y seleccionar los tres más atractivos para el patrocinador en función de sus objetivos específicos. 
+##  <br> Descripción </br>
 
-![image](https://github.com/user-attachments/assets/0690ac64-0c0f-45c4-8d82-d873bcf8a55b)
+Este proyecto tiene como objetivo analizar datos relacionados con la NBA y los equipos de baloncesto para ayudar a las marcas a tomar decisiones informadas sobre patrocinios. A continuación, se detallan los aspectos clave del proyecto: 
 
-## Instalación
+### Contexto del negocio
 
+En el sector del marketing deportivo, la competencia por los patrocinios de la NBA es cada vez mayor. Nuestro cliente, un patrocinador importante, necesita identificar los tres equipos que le proporcionarán la mayor visibilidad. La elección incorrecta podría resultar en una pérdida de inversión y dañar la reputación.
 
+### <p align="center"> ![image](https://github.com/user-attachments/assets/3394475c-938d-4867-8de8-71e83268ec52) </p> 
 
-## Uso
+### Objetivo
 
+Desarrollar una metodología de análisis de datos para evaluar a todos los equipos de la NBA y seleccionar los tres más atractivos para el patrocinador en función de sus objetivos específicos.
 
+### Fuente de datos
 
-## Contribución
+Utilizaremos un dataset de baloncesto de la NBA disponible en Kaggle. El dataset contiene estadísticas de jugadores, equipos y partidos, incluyendo puntos, rebotes, asistencias, estadísticas de tiro y más. Nos centraremos en las últimas dos temporadas: 2021-2022 y 2022-2023.
 
-Si deseas contribuir al proyecto, crea un fork del repositorio y envía un pull request con tus cambios.
+dataset: https://www.kaggle.com/datasets/wyattowalsh/basketball
 
-## Licencia
+## Stack Tecnológico
+Para este proyecto, utilizaremos las siguientes herramientas y tecnologías:
+
+- **Python**: Lenguaje de programación principal para el análisis de datos.
+- **Jupyter Notebooks**: Para exploración inicial de datos, ETL y EDA.
+- **pandas**, **matplotlib**, **seaborn**: Bibliotecas esenciales para manipulación de datos y visualización.
+- **GitHub**: Plataforma para colaboración y control de versiones.
+- **SQLServer**: Para la creación de la base de datos y objetos SQL.
+
+  Link de fundamentación
+
+## Flujo de Trabajo
+Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará con 2 sprints:
+
+**Sprint 1:**
+- Configuración del Repositorio (GitHub):
+- Lectura y Exploración Inicial de los Datos.
+- ETL, Limpieza y Filtrado de Datos.
+- Análisis exploratorio EDA.
+- Creación de base de datos, Tablas y objetos SQL.
+- Validación y Automatización.
+	
+Link de documento  
+
+## Estructura del Repositorio
+- `data/`: Carpeta que contiene los archivos CSV con los datos de la NBA.
+- `notebooks/`: Jupyter Notebooks con el análisis exploratorio y visualización.
+- `scripts/`: Scripts de limpieza y procesamiento de datos.
+- `results/`: Resultados y gráficos generados.
+
+## Requisitos
+- Python 3.7 o superior
+- Bibliotecas: pandas, matplotlib, seaborn, etc.
+
+## Changelog
+ejemplos:
+* 2023-02-15: Se agregó soporte para análisis de datos de la NBA.
+* 2023-01-20: Se corrigió un error en la función de análisis de rendimiento.
 
 ## Autores
 
@@ -31,8 +72,12 @@ Si deseas contribuir al proyecto, crea un fork del repositorio y envía un pull 
 
 * [Enlace a la documentación adicional]
 
-## Changelog
+## Contribuciones
+¡Siéntete libre de colaborar! Crea un fork del repositorio y envía un pull request con tus cambios.
+  
 
-ejemplos:
-* 2023-02-15: Se agregó soporte para análisis de datos de la NBA.
-* 2023-01-20: Se corrigió un error en la función de análisis de rendimiento.
+
+
+
+
+
