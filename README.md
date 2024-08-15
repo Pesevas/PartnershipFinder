@@ -2,7 +2,7 @@
 
 # <p align="center"> Proyecto Final de Análisis de Datos "PartnershipFinder" </p> 
 
-##  <br> Descripción </br>
+##  <br> 📌 Descripción </br>
 
 Este proyecto tiene como objetivo analizar datos relacionados con la NBA y los equipos de baloncesto para ayudar a las marcas a tomar decisiones informadas sobre patrocinios. A continuación, se detallan los aspectos clave del proyecto: 
 
@@ -22,7 +22,7 @@ Utilizaremos un dataset de baloncesto de la NBA disponible en Kaggle. El dataset
 
 dataset: https://www.kaggle.com/datasets/wyattowalsh/basketball
 
-## Stack Tecnológico
+## 📌 Stack Tecnológico
 Para este proyecto, utilizaremos las siguientes herramientas y tecnologías:
 
 - **Python**: Lenguaje de programación principal para el análisis de datos.
@@ -31,9 +31,9 @@ Para este proyecto, utilizaremos las siguientes herramientas y tecnologías:
 - **GitHub**: Plataforma para colaboración y control de versiones.
 - **SQLServer**: Para la creación de la base de datos y objetos SQL.
 
-  Link de fundamentación
+  [Link documento: Fundamentación stack tecnológico](https://docs.google.com/document/d/1ZHm1Hy4HFOOicAFl9vrbVbVHiR_zjJuGRuKpMpBECAs/edit?usp=drive_link)
 
-## Flujo de Trabajo
+## 📌 Flujo de Trabajo
 Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará con 2 sprints:
 
 **Sprint 1:**
