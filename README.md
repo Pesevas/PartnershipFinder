@@ -43,7 +43,9 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 - Análisis exploratorio EDA.
 - Creación de base de datos, Tablas y objetos SQL.
 - Validación y Automatización.
-	
+
+[Link de tablero de control de actividades](https://trello.com/b/8oaoNTUX/tablero-partnershipfinder) 
+
 Link de documento  
 
 ## 🗂️ Estructura del Repositorio
