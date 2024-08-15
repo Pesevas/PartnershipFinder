@@ -46,7 +46,7 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 	
 Link de documento  
 
-## Estructura del Repositorio
+## 🗂️ Estructura del Repositorio
 - `data/`: Carpeta que contiene los archivos CSV con los datos de la NBA.
 - `notebooks/`: Jupyter Notebooks con el análisis exploratorio y visualización.
 - `scripts/`: Scripts de limpieza y procesamiento de datos.
