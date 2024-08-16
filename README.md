@@ -52,13 +52,14 @@ Link de documento
 - `Data/`: Carpeta que contiene los archivos CSV a utilizar para nuestro análisis.
 - `Documentos/`: Carpeta que contiene informes anexados.
 - `ETLyEDA/`: Jupyter Notebooks con el código correspondiente del ETL y EDA.
-- `Imagenes/`: archivos que contine pictures anexados.
-- `PowerBI/`: archivos .pbix de las visualizaciones y dashboard
-  
+- `Imagenes/`: contiene pictures anexadas.
+- `PowerBI/`: archivos .pbix de las visualizaciones y dashboard.
+- `SQL/`: archivos .sql que contiene código relacionado a la base de datos.  
 
 ## Requisitos
 - Python 3.7 o superior
 - Bibliotecas: pandas, matplotlib, seaborn, etc.
+- Microsoft SQL Server Management Studio.
 
 ## Changelog
 ejemplos:
