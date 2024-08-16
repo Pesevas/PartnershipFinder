@@ -49,10 +49,12 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 Link de documento  
 
 ## 🗂️ Estructura del Repositorio
-- `data/`: Carpeta que contiene los archivos CSV con los datos de la NBA.
-- `notebooks/`: Jupyter Notebooks con el análisis exploratorio y visualización.
-- `scripts/`: Scripts de limpieza y procesamiento de datos.
-- `results/`: Resultados y gráficos generados.
+- `Data/`: Carpeta que contiene los archivos CSV a utilizar para nuestro análisis.
+- `Documentos/`: Carpeta que contiene informes anexados.
+- `ETLyEDA/`: Jupyter Notebooks con el código correspondiente del ETL y EDA.
+- `Imagenes/`: archivos que contine pictures anexados.
+- `PowerBI/`: archivos .pbix de las visualizaciones y dashboard
+  
 
 ## Requisitos
 - Python 3.7 o superior
