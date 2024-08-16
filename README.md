@@ -44,7 +44,7 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 - Creación de base de datos, Tablas y objetos SQL.
 - Validación y Automatización.
 
-[Link de tablero de control de actividades](https://trello.com/b/8oaoNTUX/tablero-partnershipfinder) 
+  [Link de tablero de control de actividades](https://trello.com/b/8oaoNTUX/tablero-partnershipfinder) 
 
 Link de documento  
 
