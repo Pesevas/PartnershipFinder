@@ -62,7 +62,7 @@ Link de documento
 - Bibliotecas: pandas, matplotlib, seaborn, etc.
 - Microsoft SQL Server Management Studio.
 
-## Changelog
+## Registro de cambios
 ejemplos:
 * 2023-02-15: Se agregó soporte para análisis de datos de la NBA.
 * 2023-01-20: Se corrigió un error en la función de análisis de rendimiento.
