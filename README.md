@@ -30,6 +30,7 @@ Para este proyecto, utilizaremos las siguientes herramientas y tecnologías:
 - **pandas**, **matplotlib**, **seaborn**: Bibliotecas esenciales para manipulación de datos y visualización.
 - **GitHub**: Plataforma para colaboración y control de versiones.
 - **SQLServer**: Para la creación de la base de datos y objetos SQL.
+- **ZeroTier**: VPN
 
   [Link documento: Fundamentación stack tecnológico](https://docs.google.com/document/d/1ZHm1Hy4HFOOicAFl9vrbVbVHiR_zjJuGRuKpMpBECAs/edit?usp=drive_link)
 
