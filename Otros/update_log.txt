@@ -1,0 +1,6 @@
+2024-08-18 14:43:37,172 - INFO - No se encontraron nuevos registros para C:\Users\franb\Downloads\PartnershipFinder_gitclone\PartnershipFinder\Data\PF_GameDataFinal.csv en la tabla dbo.Game.
+2024-08-18 14:43:37,172 - INFO - No se encontraron nuevos registros para PF_GameDataFinal.csv en la tabla dbo.Game.
+2024-08-18 14:43:45,327 - INFO - No se encontraron nuevos registros para C:\Users\franb\Downloads\PartnershipFinder_gitclone\PartnershipFinder\Data\PF_OtherStatsDataFinal.csv en la tabla dbo.OtherStats.
+2024-08-18 14:43:45,327 - INFO - No se encontraron nuevos registros para PF_OtherStatsDataFinal.csv en la tabla dbo.OtherStats.
+2024-08-18 14:43:45,343 - INFO - No se encontraron nuevos registros para C:\Users\franb\Downloads\PartnershipFinder_gitclone\PartnershipFinder\Data\PF_TeamDetailsDataFinal.csv en la tabla dbo.TeamDetails.
+2024-08-18 14:43:45,343 - INFO - No se encontraron nuevos registros para PF_TeamDetailsDataFinal.csv en la tabla dbo.TeamDetails.
