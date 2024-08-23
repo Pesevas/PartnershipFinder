@@ -46,11 +46,11 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 - Validación y Automatización.
 
 **Sprint 2:**
-- Importar la data a Power BI. (2)
-- Realizar proceso de limpieza y transformación de los datos en Power Query. (2)
-- Crear medidas, columnas calculadas y relaciones necesarias para el análisis. (3)
-- Diseñar reportes y gráficos a usar. (DASH)
-- Documentación.(README)
+- Importar la data a Power BI.
+- Realizar proceso de limpieza y transformación de los datos en Power Query.
+- Crear medidas, columnas calculadas y relaciones necesarias para el análisis. 
+- Diseñar reportes y gráficos a usar. 
+- Documentación.
 
   [Link de tablero de control de actividades](https://trello.com/b/8oaoNTUX/tablero-partnershipfinder) 
 
