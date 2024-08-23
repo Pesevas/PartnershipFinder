@@ -44,7 +44,6 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 - Análisis exploratorio EDA.
 - Creación de base de datos, Tablas y objetos SQL.
 - Validación y Automatización.
-
 **Sprint 2:**
 - Importar la data a Power BI.
 - Realizar proceso de limpieza y transformación de los datos en Power Query.
