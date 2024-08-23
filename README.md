@@ -45,9 +45,15 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 - Creación de base de datos, Tablas y objetos SQL.
 - Validación y Automatización.
 
+**Sprint 2:**
+- Importar la data a Power BI. (2)
+- Realizar proceso de limpieza y transformación de los datos en Power Query. (2)
+- Crear medidas, columnas calculadas y relaciones necesarias para el análisis. (3)
+- Diseñar reportes y gráficos a usar. (DASH)
+- Documentación.(README)
+
   [Link de tablero de control de actividades](https://trello.com/b/8oaoNTUX/tablero-partnershipfinder) 
 
-Link de documento  
 
 ## 🗂️ Estructura del Repositorio
 - `Data/`: Carpeta que contiene los archivos CSV a utilizar para nuestro análisis.
