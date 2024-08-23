@@ -31,6 +31,7 @@ Para este proyecto, utilizaremos las siguientes herramientas y tecnologías:
 - **GitHub**: Plataforma para colaboración y control de versiones.
 - **SQLServer**: Para la creación de la base de datos y objetos SQL.
 - **ZeroTier**: VPN
+- **Power BI**: para visualización de datos y creación de dashboards.
 
   [Link documento: Fundamentación stack tecnológico](https://docs.google.com/document/d/1ZHm1Hy4HFOOicAFl9vrbVbVHiR_zjJuGRuKpMpBECAs/edit?usp=drive_link)
 
@@ -46,8 +47,9 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 - Validación y Automatización.
   
 **Sprint 2:**
-- Importar la data a Power BI.
-- Realizar proceso de limpieza y transformación de los datos en Power Query.
+
+- Importar la data a PowerBI.
+- Realizar el proceso de limpieza y transformación de los datos en Power Query..
 - Crear medidas, columnas calculadas y relaciones necesarias para el análisis. 
 - Diseñar reportes y gráficos a usar. 
 - Documentación.
