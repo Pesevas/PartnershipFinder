@@ -38,8 +38,9 @@ Para este proyecto, utilizaremos las siguientes herramientas y tecnologías:
 ## 📌 Flujo de Trabajo
 Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará con 2 sprints:
 
-**Sprint 1:**
+**Sprint 1:** 
 - Configuración del Repositorio (GitHub):
+  
 - Lectura y Exploración Inicial de los Datos.
 - ETL, Limpieza y Filtrado de Datos.
 - Análisis exploratorio EDA.
@@ -47,7 +48,6 @@ Aplicaremos la metodología SCRUM a nuestro flujo de trabajo, el cuál contará 
 - Validación y Automatización.
   
 **Sprint 2:**
-
 - Importar la data a PowerBI.
 - Realizar el proceso de limpieza y transformación de los datos en Power Query..
 - Crear medidas, columnas calculadas y relaciones necesarias para el análisis. 
